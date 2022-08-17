@@ -32,7 +32,7 @@
 
 ​    	创建数据库mydb，可通过新建查询执行mysdb.sql下的SQL语句建立数据库，数据库表
 
-​		数据库连接名：root    密码： 123456
+​		数据库连接名：admin    密码：admin123
 
 ​				可在config -> default.json 修改
 
